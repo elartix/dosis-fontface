@@ -20,4 +20,4 @@
 
 The Dosis Font Family is distributed under the [Open Font Licence](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web).
 
-The source code in this project is distributed under the [MIT License](http://earaujoassis.mit-license.org/) &copy; Vladimir Mechkauskas
+The source code in this project is distributed under the MIT License &copy; Vladimir Mechkauskas

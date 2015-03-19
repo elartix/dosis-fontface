@@ -2,6 +2,7 @@
   "name": "dosis-fontface",
   "version": "0.0.1",
   "homepage": "https://github.com/elartix/dosis-fontface",
+  "main": "dosis.css"
   "authors": [
     "Vladimir Mechkauskas <lestatbbk@gmail.com>"
   ],
