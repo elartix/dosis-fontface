@@ -1,0 +1,29 @@
+{
+  "name": "dosis-fontface",
+  "version": "0.0.1",
+  "homepage": "https://github.com/elartix/dosis-fontface",
+  "authors": [
+    "Vladimir Mechkauskas <lestatbbk@gmail.com>"
+  ],
+  "description": "Dosis Font Family Bower-ready (LESS-ready, and plain CSS-ready)",
+  "keywords": [
+    "dosis",
+    "font",
+    "fontface",
+    "css",
+    "less",
+    "web",
+    "design"
+  ],
+  "license": [
+    "MIT",
+    "OFL"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
